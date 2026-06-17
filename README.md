@@ -1,5 +1,3 @@
-For a university/internship GitHub project, keep the README simple, professional, and focused on features, tech stack, and setup.
-
 Product Explorer App
 
 A Flutter-based mobile application that allows users to browse products from an external REST API, authenticate using Firebase, and save favorite items to the cloud using Firestore.
